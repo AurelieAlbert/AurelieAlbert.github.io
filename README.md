@@ -1,6 +1,6 @@
 # Test for a SASIP Website Source
 
-https://aureliealbert.github.io/test-sasip.github.io/
+https://aureliealbert.github.io
 
 This repo contains the source code for the SASIP website.
 The site uses the [Hugo](https://gohugo.io/) framework.
